@@ -6,3 +6,8 @@ url: https://SamuelAcunaPhD.github.io/Community_Engaged_Design_Toolbox
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
+
+# To add an extra plugin, you need to add it in the `Gemfile` *and* in `_config.yml`. 
+plugins: 
+  - jekyll-default-layout 
