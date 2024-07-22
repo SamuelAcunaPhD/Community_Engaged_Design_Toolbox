@@ -9,5 +9,5 @@ aux_links:
 
 
 # To add an extra plugin, you need to add it in the `Gemfile` *and* in `_config.yml`. 
-plugins: 
-  - jekyll-default-layout 
+#plugins: 
+  #- jekyll-default-layout 

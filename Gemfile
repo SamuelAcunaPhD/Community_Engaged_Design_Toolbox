@@ -7,4 +7,4 @@ gem "just-the-docs", "0.8.2" # pinned to the current release
 # gem "just-the-docs"        # always download the latest release
 
 # To add an extra plugin, you need to add it in the `Gemfile` *and* in `_config.yml`. 
-gem "jekyll-default-layout"
+# gem "jekyll-default-layout"
